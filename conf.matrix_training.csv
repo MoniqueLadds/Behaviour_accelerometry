@@ -1,0 +1,45 @@
+,Model,Features,Sensitivty,Specificity,Behaviour
+5,Random forest,FALSE,0.64,0.89,foraging
+6,Random forest,FALSE,0.86,0.93,grooming
+7,Random forest,FALSE,0.86,0.95,resting
+8,Random forest,FALSE,0.64,0.89,travelling
+9,Logistic regression,FALSE,0.59,0.83,foraging
+10,Logistic regression,FALSE,0.71,0.89,grooming
+11,Logistic regression,FALSE,0.86,0.90,resting
+12,Logistic regression,FALSE,0.39,0.89,travelling
+13,SVM,FALSE,0.64,0.80,foraging
+14,SVM,FALSE,0.73,0.90,grooming
+15,SVM,FALSE,0.86,0.91,resting
+16,SVM,FALSE,0.34,0.91,travelling
+17,SVM,FALSE,0.69,0.86,foraging
+18,SVM,FALSE,0.78,0.94,grooming
+19,SVM,FALSE,0.87,0.92,resting
+20,SVM,FALSE,0.57,0.91,travelling
+21,SVM,FALSE,0.68,0.86,foraging
+22,SVM,FALSE,0.76,0.94,grooming
+23,SVM,FALSE,0.85,0.92,resting
+24,SVM,FALSE,0.56,0.89,travelling
+25,SVM,FALSE,0.68,0.82,foraging
+26,SVM,FALSE,0.71,0.90,grooming
+27,SVM,FALSE,0.89,0.89,resting
+28,SVM,FALSE,0.32,0.92,travelling
+29,GBM,FALSE,0.64,0.88,foraging
+30,GBM,FALSE,0.82,0.94,grooming
+31,GBM,FALSE,0.85,0.94,resting
+32,GBM,FALSE,0.63,0.88,travelling
+33,Random forest,TRUE,0.71,0.93,foraging
+34,Random forest,TRUE,0.94,0.94,grooming
+35,Random forest,TRUE,0.87,0.96,resting
+36,Random forest,TRUE,0.70,0.90,travelling
+37,Logistic regression,TRUE,0.61,0.92,foraging
+38,Logistic regression,TRUE,0.80,0.90,grooming
+39,Logistic regression,TRUE,0.83,0.92,resting
+40,Logistic regression,TRUE,0.62,0.88,travelling
+41,SVM,TRUE,0.60,0.92,foraging
+42,SVM,TRUE,0.81,0.91,grooming
+43,SVM,TRUE,0.84,0.93,resting
+44,SVM,TRUE,0.62,0.87,travelling
+45,GBM,TRUE,0.75,0.92,foraging
+46,GBM,TRUE,0.92,0.95,grooming
+47,GBM,TRUE,0.85,0.96,resting
+48,GBM,TRUE,0.71,0.92,travelling
